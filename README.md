@@ -1,8 +1,10 @@
-Minha Evolução em Python 🐍
+# Minha Evolução em Python 🐍
 
 Este repositório acompanha toda a minha evolução no aprendizado de Python, desde os primeiros exercícios até projetos mais elaborados. Ele serve tanto como **diário de estudo** quanto como **portfólio de código**.
 
-Estrutura do Repositório
+---
+
+## 📝 Estrutura do Repositório
 
 O repositório está organizado em pastas e módulos de acordo com o tipo de conteúdo:
 
@@ -16,13 +18,17 @@ minha-evolucao-python/
 ├── README.md # Este arquivo
 └── .gitignore # Arquivos a ignorar pelo Git
 
-Tecnologias Utilizadas
+---
+
+## 🚀 Tecnologias Utilizadas
 
 - Python 3.11 (ou versão mais recente)
-- VSCode ou outro editor de sua preferência
+- VSCode e Pycharm
 - Git/GitHub para controle de versão
 
-Conteúdo
+---
+
+## 📚 Conteúdo
 
 - Estruturas básicas: variáveis, listas, tuplas, dicionários
 - Estruturas de decisão e repetição (`if`, `while`, `for`)
@@ -32,7 +38,9 @@ Conteúdo
 - Interface de menu interativa
 - Boas práticas de Python (docstrings, comentários, type hints)
 
-Como Usar
+---
+
+## ⚡ Como Usar
 
 1. Clone o repositório:
 ```bash
