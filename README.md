@@ -1,35 +1,47 @@
-# Minha Evolução no Curso de Python (Curso em Vídeo)
+# Minha Evolução em Python 🐍
 
-Este repositório foi criado para acompanhar minha evolução enquanto estudo Python pelo **Curso em Vídeo**, do professor Gustavo Guanabara.
-
-Aqui você encontrará exercícios, pequenos projetos e testes que fiz ao longo do curso — todos com o objetivo de praticar e registrar meu avanço na linguagem.
+Este repositório acompanha toda a minha evolução no aprendizado de Python, desde os primeiros exercícios até projetos mais elaborados. Ele serve tanto como **diário de estudo** quanto como **portfólio de código**.
 
 ---
 
-## 🎯 Objetivo do Repositório
-- Armazenar meus exercícios e códigos de estudo  
-- Registrar minha evolução ao longo do curso  
-- Ter um portfólio simples e organizado
-- Treinar Git e GitHub no processo
+## 📝 Estrutura do Repositório
+
+O repositório está organizado em pastas e módulos de acordo com o tipo de conteúdo:
+
+minha-evolucao-python/
+├── ex001.py, ex002.py ... # Exercícios do Curso em Vídeo
+├── uteis/ # Funções e módulos utilitários
+│ ├── interface.py # Funções de menu e cabeçalho
+│ ├── arquivos.py # Funções para manipulação de arquivos
+│ └── financeiro.py # Funções financeiras e de cálculo
+├── dados/ # Arquivos de texto usados pelos exercícios
+├── README.md # Este arquivo
+└── .gitignore # Arquivos a ignorar pelo Git
 
 ---
 
-## 📂 O que tem aqui
-O repositório contém:
-- Soluções dos exercícios dos mundos 1, 2 e 3  
-- Códigos de testes  
-- Anotações e práticas pessoais  
+## 🚀 Tecnologias Utilizadas
 
-A organização pode mudar ao longo do tempo conforme eu vou melhorando e aprendendo mais.
+- Python 3.11 (ou versão mais recente)
+- VSCode e Pycharm
+- Git/GitHub para controle de versão
 
 ---
 
-## 🧠 Aviso Importante
-Os códigos aqui não são "modelos oficiais".  
-São apenas **minhas soluções pessoais**, feitas durante o aprendizado.  
-Se você estiver estudando também, recomendo tentar resolver antes de ver as respostas.
+## 📚 Conteúdo
+
+- Estruturas básicas: variáveis, listas, tuplas, dicionários
+- Estruturas de decisão e repetição (`if`, `while`, `for`)
+- Funções e modularização
+- Manipulação de arquivos (`txt`)
+- Formatação de dados (moeda, resumo financeiro)
+- Interface de menu interativa
+- Boas práticas de Python (docstrings, comentários, type hints)
 
 ---
 
-## ▶️ Como executar os exercícios
-Basta rodar no terminal:
+## ⚡ Como Usar
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/manoellopesjunior/minha-evolucao-python.git
